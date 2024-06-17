@@ -1,6 +1,6 @@
 # 🎓 Hola, me llamo Elvis!
 Soy una persona a la que siempre le gustan jugar con las nuevas tecnologías que salen al mercado, y me encanta explorar nuevas formas de codificar para mejorar mi código y automatizar mi flujo de trabajo de manera más efectiva. Quiero llevar una vida equilibrada tanto en el trabajo como en mi vida diaria. 
-Soy un desarrollador de backend en Java. Por ultimo, estoy siempre trabajando para mejorar.
+Soy un desarrollador de backend en Java y siempre estoy trabajando para mejorar.
 
 
 ## 🔗 Redes Sociales:
